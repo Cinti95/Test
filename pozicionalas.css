@@ -1,0 +1,38 @@
+.level{
+    border: 1px solid gray;
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 10px;
+    position: relative;
+}
+#email, button{
+    display: block;
+    width: 100%;
+    box-sizing: border-box;
+    height: 2rem;
+    margin-bottom: 10px;
+}
+#term{
+    position: relative;
+    top: 2px;
+}
+#closex{
+    position: absolute;
+    top: 10px;
+    right: 10px;
+}
+.qmark{
+    background-color: gray;
+    width: 50px;
+    height: 50px;
+    font-size: 2rem;
+    border-radius: 50%;
+    text-align: center;
+    position: fixed;
+    bottom: 10px;
+    right: 10px;
+}
+.a{
+    height: 800px;
+    border: 1px solid gray;
+}
